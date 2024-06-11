@@ -1,4 +1,4 @@
-word = ""
+word = input("Qual a palavra?\n")
 hasNumber = False
 
 for _ in word:

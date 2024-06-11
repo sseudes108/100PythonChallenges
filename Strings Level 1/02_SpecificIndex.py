@@ -1,5 +1,5 @@
-word = "Hello"
-index = 1
+word = input("Qual a palavra?\n")
+index = int(input("Qual o indice desejado?\n"))
 
 if len(word) == 0:
     print("Empty String")

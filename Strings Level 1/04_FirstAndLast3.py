@@ -1,4 +1,4 @@
-word = "Wonderful"
+word = input("Qual a palavra?\n")
 
 #print the first three letters
 def Firsts(word):
