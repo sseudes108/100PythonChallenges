@@ -1,4 +1,4 @@
-word = input("Qual a palavra?\n")
+word = input("What is the word?\n")
 
 lenght = len(word)
 

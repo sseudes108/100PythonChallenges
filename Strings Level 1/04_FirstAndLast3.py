@@ -1,4 +1,4 @@
-word = input("Qual a palavra?\n")
+word = input("What is the word?\n")
 
 #print the first three letters
 def Firsts(word):
@@ -7,10 +7,10 @@ def Firsts(word):
 
 #print the last three letters
 def Lasts(word):
-    length = len(word) - 3
+    lenght = len(word) - 3
     # i starts at 0
     for i in range(3):
-        print(word[length + i], end="")
+        print(word[lenght + i], end="")
         
 if len(word) > 6:
     Firsts(word)

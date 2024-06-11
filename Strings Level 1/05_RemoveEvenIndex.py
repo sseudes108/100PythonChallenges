@@ -1,9 +1,9 @@
-word = input("Qual a palavra?\n")
+word = input("What is the word?\n")
 
-length = len(word)
+lenght = len(word)
 
-if(length > 1):
-    for i in range(length):
+if(lenght > 1):
+    for i in range(lenght):
         if i % 2 != 0:
             print(word[i], end="")
 else:

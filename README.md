@@ -9,7 +9,7 @@
 <div>
     <h3>Strings Leve 1</h3>
     <ul>
-        <li>01 - Print the Length of a String</li>
+        <li>01 - Print the lenght of a String</li>
         <li>02 - Print the Character at a Specific Index</li>
         <li>03 - Reverse a String</li>
         <li>04 - Print the First and Last Three Characters of a String</li>
@@ -24,6 +24,9 @@
         <li>09 - Change Commas by Dots</li>
         <li>10 - Check if String Contains All Letters in the Alphabet</li>
         <li>11 - Remove Spaces from a String</li>
+        <li>12 - Check if a String Starts with a Prefix</li>
+        <li>13 - Check if a String Ends with a Suffix</li>
+        <li>14 - Reverse Words in a String</li>
     </ul>
     <hr>
 </div>

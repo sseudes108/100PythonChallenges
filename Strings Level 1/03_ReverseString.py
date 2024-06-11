@@ -1,7 +1,7 @@
-word = input("Qual a palavra?\n")
+word = input("What is the word?\n")
 
-length = len(word)
+lenght = len(word)
 
 for _ in word:
-    length -= 1
-    print(word[length], end="")
+    lenght -= 1
+    print(word[lenght], end="")

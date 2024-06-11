@@ -1,4 +1,4 @@
-word = input("Qual a palavra?\n")
+word = input("What is the word?\n")
 index = int(input("Qual o indice a ser removido?\n"))
 indexAt = 0
 
