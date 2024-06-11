@@ -22,7 +22,8 @@
     <h3>Strings Leve 2</h3>
     <ul>
         <li>09 - Change Commas by Dots</li>
-        <li>09 - Check if String Contains All Letters in the Alphabet</li>
+        <li>10 - Check if String Contains All Letters in the Alphabet</li>
+        <li>11 - Remove Spaces from a String</li>
     </ul>
     <hr>
 </div>
