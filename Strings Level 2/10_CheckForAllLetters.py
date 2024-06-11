@@ -2,7 +2,7 @@ import string
 
 matches = 0
 
-text = input("Qual o texto?\n")
+text = input("What is the text?\n")
 text = text.lower()
 text = text.replace(" ","")
 uniqueLetters = set(text)

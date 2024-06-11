@@ -1,5 +1,5 @@
 word = input("What is the word?\n")
-index = int(input("Qual o indice a ser removido?\n"))
+index = int(input("What is the index to be removed?\n"))
 indexAt = 0
 
 if(len(word) > 0):
