@@ -41,7 +41,14 @@
     <h3>Lists And Tuples</h3>
     <summary><p>Level 1</p></summary>
     <ul>
-        <li></li>
+        <li>17 - Multiply all Elements in a List</li>
+        <li>18 - Print Elements on the Same Line Without Commas</li>
+        <li>19 -  Get Max and Min Values</li>
+        <li>20 - Check if List is Empty or Not</li>
+        <li>21 - Print the Elements and Their Indices</li>
+        <li>22 - Remove Matching Element</li>
+        <li>23 - Remove Duplicates from a List</li>
+        <li>24 - Count Elements Greater than 3</li>
     </ul>
     </details>
 </div>

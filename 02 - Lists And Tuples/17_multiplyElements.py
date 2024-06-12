@@ -1,6 +1,10 @@
-# list = [6, 8, 10, 12]
-# factor = 2
+list = ["a", "b", "c"]
+factor = 3
 
-# for _ in list:
-#     print(_)
-#     print(list[_] * factor)
+listMultipled = []
+
+for item in range(len(list)):
+    result = list[item] * factor
+    listMultipled.append(result)
+
+print(listMultipled)
