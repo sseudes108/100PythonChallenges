@@ -51,4 +51,10 @@
         <li>24 - Count Elements Greater than 3</li>
     </ul>
     </details>
+    <summary><p>Level 2</p></summary>
+    <ul>
+        <li>25 - Difference Between Two Lists</li>
+        <li>26 - Distance Between Two 3D Points</li>
+    </ul>
+    </details>
 </div>
