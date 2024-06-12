@@ -57,6 +57,9 @@
     <ul>
         <li>25 - Difference Between Two Lists</li>
         <li>26 - Distance Between Two 3D Points</li>
+        <li>27 - Common Elements in Two Lists</li>
+        <li>28 - Find the Second Largest Value</li>
+        <li>29 - Find the Second Smallest Value</li>
     </ul>
     </details>
 </div>

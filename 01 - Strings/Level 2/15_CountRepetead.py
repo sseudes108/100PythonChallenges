@@ -17,4 +17,4 @@ if(len(charsRepeteadList) > 0):
     for _ in sorted(charsRepeteadList):
         print(_,end=" ")
 else:
-    print("None")
+    print(None)
