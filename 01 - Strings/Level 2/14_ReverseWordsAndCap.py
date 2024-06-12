@@ -1,4 +1,4 @@
-words = input("What is the words?\n")
+words = input("What are the words?\n")
 
 splitedWords = words.split(" ")
 
