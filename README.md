@@ -39,6 +39,7 @@
 
 <div Section Lists And Tuples>
     <h3>Lists And Tuples</h3>
+    <details>
     <summary><p>Level 1</p></summary>
     <ul>
         <li>17 - Multiply all Elements in a List</li>
@@ -51,6 +52,7 @@
         <li>24 - Count Elements Greater than 3</li>
     </ul>
     </details>
+    <details>
     <summary><p>Level 2</p></summary>
     <ul>
         <li>25 - Difference Between Two Lists</li>
