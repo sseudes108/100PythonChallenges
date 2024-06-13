@@ -60,6 +60,11 @@
         <li>27 - Common Elements in Two Lists</li>
         <li>28 - Find the Second Largest Value</li>
         <li>29 - Find the Second Smallest Value</li>
+        <li>30 - Make a Frequency Dictionary from the Elements of a List</li>
+        <li>31 - Flatten a List that Contains Lists</li>
+        <li>32 - Generate all Permutations of a List</li>
     </ul>
     </details>
 </div>
+
+<!-- 32 Tuples 2 - 18. Challenge Use Tuples.html -->
